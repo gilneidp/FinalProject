@@ -20,7 +20,7 @@
   </head>
   <body>
    <div class="row">
-      <div id="navigation-menu" class="col-md-12 log-siderbar">
+      <div id="navigation-menu" class="col-md-12 log-siderbar"> <!--main menu -->
       </div>
    </div>
 	
@@ -31,7 +31,7 @@
      <div class="row">
 	   <div class="col-md-4">
 		<div class="align-center">
-		<div id="navigation-menu" class="col-md-12 log-siderbar"></div>
+		<div id="navigation-menu" class="col-md-4 log-siderbar"></div> <!-- menu 2 -->
 		</div>
 	   </div>
 	   <div class="col-md-8">
