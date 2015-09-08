@@ -24,15 +24,25 @@ class FlowTable(models.Model):
         managed = False
         db_table = 'Flow_table'
 
+class StatsTable(models.Model):
+    stats_id = models.AutoField(db_column='Stats.id', primary_key=True)  # Field name made lowercase. Field renamed to remove unsuitable characters.
+    packet_counter = models.FloatField(db_column='Packet_counter', blank=True, null=True)  # Field name made lowercase.
+    byte_counter = models.FloatField(db_column='Byte_counter', blank=True, null=True)  # Field name made lowercase.
+    flow_table_flow_id = models.IntegerField(db_column='Flow_table_Flow.id')  # Field name made lowercase. Field renamed to remove unsuitable characters.
+
+    class Meta:
+        managed = False
+        db_table = 'Stats_table'
+
 
 class FlowTableHasStatsTable(models.Model):
-    flow_table_flow_id = models.ForeignKey(FlowTable, db_column='Flow_table_Flow.id')  # Field name made lowercase. Field renamed to remove unsuitable characters.
+    flow_table_flow_id = models.ForeignKey('FlowTable', db_column='Flow_table_Flow.id')  # Field name made lowercase. Field renamed to remove unsuitable characters.
     stats_table_stats_id = models.ForeignKey('StatsTable', db_column='Stats_table_Stats.id')  # Field name made lowercase. Field renamed to remove unsuitable characters.
 
     class Meta:
         managed = False
         db_table = 'Flow_table_has_Stats_table'
-        unique_together = (('Flow_table_Flow.id', 'Stats_table_Stats.id'),)
+       # unique_together = (('Flow_table_Flow.id', 'Stats_table_Stats.id'))
 
 
 class RuleTable(models.Model):
@@ -49,17 +59,6 @@ class RuleTable(models.Model):
     class Meta:
         managed = False
         db_table = 'Rule_table'
-
-
-class StatsTable(models.Model):
-    stats_id = models.AutoField(db_column='Stats.id', primary_key=True)  # Field name made lowercase. Field renamed to remove unsuitable characters.
-    packet_counter = models.FloatField(db_column='Packet_counter', blank=True, null=True)  # Field name made lowercase.
-    byte_counter = models.FloatField(db_column='Byte_counter', blank=True, null=True)  # Field name made lowercase.
-    flow_table_flow_id = models.IntegerField(db_column='Flow_table_Flow.id')  # Field name made lowercase. Field renamed to remove unsuitable characters.
-
-    class Meta:
-        managed = False
-        db_table = 'Stats_table'
 
 
 class TemporaryFlow(models.Model):
