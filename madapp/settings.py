@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'madapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'flowsdb', 
+        'NAME': 'mydb', 
         'USER': 'root', 
         'PASSWORD': '@gilnei',
         'HOST': 'localhost', 
