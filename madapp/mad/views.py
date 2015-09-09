@@ -19,7 +19,9 @@ def index(request):
 def poxlogs(request):
     return render_to_response('poxlogs.html', context_instance=RequestContext(request))
 def tempflows(request):
-    return render_to_response('tempflows.html', context_instance=RequestContext(request))
+    tempf= TemporaryFlow.objects.order_by('flow_id')
+    return render_to_response('tempflows.html',
+    RequestContext(request, {'tempf':tempf}))
 def poxstatus(request):
     return render_to_response('poxsatus.html', context_instance=RequestContext(request))
 def honeypotstatus(request):

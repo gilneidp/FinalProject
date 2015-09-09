@@ -7,7 +7,8 @@
         <table class="table table-bordered table-hover table-striped">
             <thead>
             <tr>
-                <th>Switch Port</th>
+                <th>ID</th>
+		<th>Switch Port</th>
                 <th>MAC de Origem</th>
 		<th>MAC de Destino</th>
 		<th>IP de Origem</th>
@@ -17,15 +18,16 @@
             </tr>
             </thead>
             <tbody>
-            {% for x in Temporary_flow %}
+            {% for x in tempf %}
             <tr>
-                <td> {{x.SwitchPort}}</td>
-                <td> {{x.MAC_src}}</td>
-		<td> {{x.MAC_dst}}</td>
-		<td> {{x.IP_src}}</td>
-		<td> {{x.IP_dst}}</td>
-		<td> {{x.Action}}</td>
-		<td> {{x.Tomeout_time}}</td>
+                <td> {{x.flow_id}}</td>
+		<td> {{x.switchport}}</td>
+                <td> {{x.mac_src}}</td>
+		<td> {{x.mac_dst}}</td>
+		<td> {{x.ip_src}}</td>
+		<td> {{x.ip_dst}}</td>
+		<td> {{x.action}}</td>
+		<td> {{x.tomeout_time}}</td>
             </tr>
             {% endfor %}
             </tbody>
