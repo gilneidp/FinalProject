@@ -23,7 +23,7 @@ admin.autodiscover()
 urlpatterns = [
     url(r'^$', 'madapp.mad.views.index'),
     url(r'^home/$', 'madapp.mad.views.index'),
-    url(r'^config/$', 'madapp.mad.views.config'),
+    #url(r'^config/$', include(admin.site.urls)),
     url(r'^about/$', 'madapp.mad.views.about'),
     url(r'^honeypotstatus/$', 'madapp.mad.views.honeypotstatus'),
     url(r'^poxstatus/$', 'madapp.mad.views.poxstatus'),

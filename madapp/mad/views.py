@@ -15,3 +15,14 @@ from django.core import serializers
 
 def index(request):
     return render_to_response('index.html', context_instance=RequestContext(request))
+def poxlogs(request):
+    return render_to_response('poxlogs.html', context_instance=RequestContext(request))
+def tempflows(request):
+    return render_to_response('tempflows.html', context_instance=RequestContext(request))
+def poxstatus(request):
+    return render_to_response('poxsatus.html', context_instance=RequestContext(request))
+def honeypotstatus(request):
+    return render_to_response('honeypotstatus.html', context_instance=RequestContext(request))
+def about(request):
+    return render_to_response('about.html', context_instance=RequestContext(request))
+
