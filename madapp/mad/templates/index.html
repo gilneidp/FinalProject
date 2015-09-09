@@ -33,8 +33,8 @@
 		  </div>
 	<div class="row"> 
     <!-- Navigation Menu -->
-		{% block menuleft %}
 	<div class="col-md-3"> <!-- menu 2 -->
+	      {% block leftmenu %}
  	      <ul class="nav nav-pills navbar-default nav-stacked" role="leftmenu">
       		 <li><a class="active" href="/honeypotstatus/">HoneyPot Status</a></li>
        		 <li role="separator" class="divider"></li>
@@ -45,14 +45,15 @@
      		 <li><a href="/poxlogs/"> POX Logs</a></li>
        		 <li role="separator" class="divider"></li>
 	     </ul>
+		 { %endblock% }
    	</div>
-		{ %endblock% }
 	<div class="col-md-8"> 
 		{% block corpo %}  
 		<h3 class="page-header">Main</h3>
 		<div class="container-fluid" id="index" ></div>
 		<div class="container-fluid" id="info"></div>
-		{% endblock %} 
+		{% endblock %}
+    </div>		
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="{% static "js/bootstrap.min.js" %}"></scrip>
