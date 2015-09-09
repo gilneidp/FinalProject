@@ -30,9 +30,9 @@
                </li>
                </ul>
 	</div>
-	<div class="row">
+	<div class="row"> 
     <!-- Navigation Menu -->
-	<div class="col-md-4"> <!-- menu 2 -->
+	<div class="col-md-3"> <!-- menu 2 -->
  	      <ul class="nav nav-pills navbar-default nav-stacked" role="leftmenu">
       		 <li><a class="active" href="/honeypotstatus/">HoneyPot Status</a></li>
        		 <li role="separator" class="divider"></li>
@@ -43,20 +43,14 @@
      		 <li><a href="/poxlogs/"> POX Logs</a></li>
        		 <li role="separator" class="divider"></li>
 	     </ul>
-   	 </div>
-    </div>
-	</div>
-	</div>
-	<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"> 
+   	</div> 
+	<div class="col-md-8"> 
 	{% block corpo %}  
-		<h2 class="page-header">Main</h2>
+		<h3 class="page-header">Main</h3>
 		<div class="container-fluid" id="index" ></div>
 		<div class="container-fluid" id="info"></div>
 	{% endblock %} 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{% static "js/bootstrap.min.js" %}"></script>
-    <!-- <script src="{% static "js/main.js" %}"></script> -->
-  </body>
+    <script src="{% static "js/bootstrap.min.js" %}"></scrip>
 </html>
