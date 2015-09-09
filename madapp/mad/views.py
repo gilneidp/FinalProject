@@ -13,6 +13,7 @@ from datetime import timedelta
 from django.utils import timezone
 from django.core import serializers
 
+@login_required(login_url='/accounts/login/')
 def index(request):
     return render_to_response('index.html', context_instance=RequestContext(request))
 def poxlogs(request):

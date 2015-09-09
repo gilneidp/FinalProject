@@ -14,6 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
 from django.conf.urls import patterns, include, url
+from django.contrib.auth import views as auth_views
 from django.contrib import admin
 from django.conf import settings
 admin.autodiscover()
@@ -21,6 +22,7 @@ admin.autodiscover()
 # ... the rest of your URLconf goes here ...
 
 urlpatterns = [
+    url(r'^accounts/login/$', auth_views.login),
     url(r'^$', 'madapp.mad.views.index'),
     url(r'^home/$', 'madapp.mad.views.index'),
     #url(r'^config/$', include(admin.site.urls)),
