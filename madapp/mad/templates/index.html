@@ -45,14 +45,10 @@
      		 <li><a href="/poxlogs/"> POX Logs</a></li>
        		 <li role="separator" class="divider"></li>
 	     </ul>
-		 { %endblock% }
+		 {% endblock %}
    	</div>
 	<div class="col-md-8"> 
-		{% block corpo %}  
-		<h3 class="page-header">Main</h3>
-		<div class="container-fluid" id="index" ></div>
-		<div class="container-fluid" id="info"></div>
-		{% endblock %}
+	<div id="content">{% block corpo %}{% endblock %}</div>
     </div>		
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
