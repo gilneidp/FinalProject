@@ -14,7 +14,6 @@
    { %endblock% }
    </head>
    <body>
-	{% block menus %}
 	<div class="container main-content">
 	<div class="row">
 	    <div class="col-md-12">
@@ -34,6 +33,7 @@
 		  </div>
 	<div class="row"> 
     <!-- Navigation Menu -->
+	{% block menuleft %}
 	<div class="col-md-3"> <!-- menu 2 -->
  	      <ul class="nav nav-pills navbar-default nav-stacked" role="leftmenu">
       		 <li><a class="active" href="/honeypotstatus/">HoneyPot Status</a></li>
