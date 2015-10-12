@@ -1,0 +1,7 @@
+$ pip install virtualenv		# Instala o serviço Virtual Environment;
+$ cd pasta_do_meu_projeto 	# diretório onde irá conter o projeto;
+$ virtualenv nome_do_projeto # - Cria um ambiente virtual com o nome do projeto;
+$ source nome_do_projeto/bin/activate	# Ativa o ambiente virtual;
+$ pip install django 	# Instala o Framework Django;
+$ django-admin.py startproject meuprojetodjango 	# Cria um novo projeto usando Django;
+$ python manange.py startapp Nome_Da_Aplicação # Cria a primeira aplicação;
