@@ -1,0 +1,98 @@
+{% extends "index.html" %}
+{% load staticfiles %}
+{% block corpo %}
+<head>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the piechart package.
+      google.load('visualization', '1.0', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'usage');
+	data.addColumn('number', 'percentagem');
+        data.addRows([
+          {% for i in status %}
+          ['Disponível',     100 - {{i.cpu_usage}}],
+          ['Utilizada',      {{i.cpu_usage}}],
+	  {% endfor %}
+        ]);
+
+        // Set chart options
+        var options = {'title':'USO DA CPU',
+                       'width':450,
+                       'height':350};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+    <script type="text/javascript"
+          src="https://www.google.com/jsapi?autoload={
+            'modules':[{
+              'name':'visualization',
+              'version':'1',
+              'packages':['corechart']
+            }]
+          }"></script>
+
+    <script type="text/javascript">
+      google.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Time',  'Numero Requisições'],
+	  ['5 min', {{req5}}],
+	  ['4 min', {{req4}}],
+	  ['3 min', {{req3}}],
+          ['2 min', {{req2}}],
+	  ['1 min', {{req1}}],
+        ]);
+
+        var options = {
+          title: 'Requisições ao POX',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+
+
+  </head>
+<h2 class="page-header">Informações POX :></h2>
+    <div class="col-lg-12">
+     {% for x in status %}
+       {% if x.status = 1 %}
+          <div class="alert alert-success" role="alert">O Controlador POX está rodando </div>
+     </div>
+     <div class="col-lg-6">
+          <hr>
+          <div id="chart_div"></div>
+          <hr>
+     </div>
+     <div class="col-lg-6">
+          <hr>
+          <div id="curve_chart"></div>
+     </div>
+     <div class="col-lg-12">
+       {% else %}
+          <div class="alert alert-danger" role="alert">POX está INATIVO .. Verifique</div>
+       {% endif %}
+      {% endfor %}
+    </div>
+{% endblock %}
+

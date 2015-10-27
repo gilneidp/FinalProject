@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+{% load staticfiles %}
+{% block corpo %}
+<h2 class="page-header">Informações HoneyPot :></h2>
+    <div class="col-lg-12">
+     {% for x in status %}
+       {% if x.status = 1 %}
+          <div class="alert alert-success" role="alert">O HoneyPot está rodando </div>
+       {% else %}
+          <div class="alert alert-danger" role="alert">O serviço HoneyPot está INATIVO .. Verifique</div>
+       {% endif %}
+      {% endfor %}
+    </div>
+{% endblock %}
+

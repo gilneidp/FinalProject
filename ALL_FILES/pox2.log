@@ -1,0 +1,2216 @@
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+WARNING:core:Still waiting on 1 component(s)
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:openflow.of_01:[00-00-00-00-00-01 1] closed
+INFO:openflow.of_01:[None 2] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 3] connected
+INFO:openflow.of_01:[00-00-00-00-00-01 3] closed
+INFO:openflow.of_01:[None 4] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 5] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 5] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:openflow.of_01:[00-00-00-00-00-01 1] closed
+INFO:openflow.of_01:[None 2] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 3] connected
+INFO:forwarding.l3_learning:1 1 RE-learned 10.0.0.1
+INFO:openflow.of_01:[00-00-00-00-00-01 3] closed
+INFO:openflow.of_01:[None 4] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 5] connected
+INFO:forwarding.l3_learning:1 1 RE-learned 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 5] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 1 ARP reply 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:core:Going down...
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.tp_dst, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'tp_dst'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.tp_dst, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'tp_dst'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.tp_dst, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'tp_dst'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.tp_dst, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'tp_dst'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.dstport, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.dstport, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.dstport, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.dstport, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip,packet.next.dstport, dstaddr, prt))
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip, dstport, dstaddr, prt))
+NameError: global name 'dstport' is not defined
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip, dstport, dstaddr, prt))
+NameError: global name 'dstport' is not defined
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip, dstport, dstaddr, prt))
+NameError: global name 'dstport' is not defined
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip, dstport, dstaddr, prt))
+NameError: global name 'dstport' is not defined
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 203, in _handle_PacketIn
+    % (dpid, inport, packet.next.srcip, protodst, dstaddr, prt))
+NameError: global name 'protodst' is not defined
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 64  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 64  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 193, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 193, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 193, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 193, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 194, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 194, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 194, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 194, in _handle_PacketIn
+    dstport = packet.next.dstport
+AttributeError: 'ipv4' object has no attribute 'dstport'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    if packet.type == packet.TCP_TYPE:
+AttributeError: 'ethernet' object has no attribute 'TCP_TYPE'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.srcport
+AttributeError: 'ethernet' object has no attribute 'srcport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.srcport
+AttributeError: 'ethernet' object has no attribute 'srcport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.srcport
+AttributeError: 'ethernet' object has no attribute 'srcport'
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.srcport
+AttributeError: 'ethernet' object has no attribute 'srcport'
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:core:Going down...
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.protocol
+AttributeError: 'ethernet' object has no attribute 'protocol'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.protocol
+AttributeError: 'ethernet' object has no attribute 'protocol'
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.next.srcport
+AttributeError: 'ipv4' object has no attribute 'srcport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.next.srcport
+AttributeError: 'ipv4' object has no attribute 'srcport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 177, in _handle_PacketIn
+    portsrc = packet.next.srcport
+AttributeError: 'ipv4' object has no attribute 'srcport'
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[None 1] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 2] connected
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 2] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 181, in _handle_PacketIn
+    log.info("%i %i this is TCPTCPTCPTCP packet" , dpid,packet.next.next.inport)
+AttributeError: 'tcp' object has no attribute 'inport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 181, in _handle_PacketIn
+    log.info("%i %i this is TCPTCPTCPTCP packet" , dpid,packet.next.next.inport)
+AttributeError: 'tcp' object has no attribute 'inport'
+ERROR:core:Exception while handling OpenFlowNexus!PacketIn...
+Traceback (most recent call last):
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 231, in raiseEventNoErrors
+    return self.raiseEvent(event, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 278, in raiseEvent
+    rv = event._invoke(handler, *args, **kw)
+  File "/home/mininet/pox/pox/lib/revent/revent.py", line 156, in _invoke
+    return handler(self, *args, **kw)
+  File "/home/mininet/pox/pox/forwarding/l3_learning.py", line 181, in _handle_PacketIn
+    log.info("%i %i this is TCPTCPTCPTCP packet" , dpid,packet.next.next.inport)
+AttributeError: 'tcp' object has no attribute 'inport'
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 89 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 35294 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59830 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59831 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59832 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 8089 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 53544 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 22 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 49072 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 22 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 49073 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 22 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 49074 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 8089 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 53549 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59839 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59840 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59841 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59842 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59843 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59844 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59845 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59846 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59847 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59848 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59849 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59850 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59851 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59852 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59853 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59854 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59855 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59856 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59857 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59858 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59859 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59860 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59861 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59862 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59863 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59864 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59865 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59866 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59867 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59868 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59869 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59870 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59871 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59872 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59873 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59874 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59875 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59985 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59986 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59987 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59988 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59989 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59990 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59991 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59992 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 22 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 49231 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 57607 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 38494 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 3 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 49714 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59997 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 90 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 37768 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 59999 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60000 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60001 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60002 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60003 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60004 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60005 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60006 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60007 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60008 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60009 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60010 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60011 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60012 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60013 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60014 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 60015 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 60332 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 60332 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 60332 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 60332 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60333 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 60334 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60335 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60336 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60337 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60338 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60339 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60340 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60341 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60342 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60343 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60344 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60345 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60346 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60347 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60348 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 60349 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60350 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60351 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60352 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60353 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60354 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60355 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60356 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60357 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60358 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60359 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60360 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60361 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60362 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60363 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60364 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 60365 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60366 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60367 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60368 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60369 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60370 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60371 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60372 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60373 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60374 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60375 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 60376 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 80 this is TCPTCPTCPTCP packet
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:core:Going down...
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 DPID 80 dstport 60621rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 DPID 80 dstport 60621rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 DPID 80 dstport 60621rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 DPID 22 dstport 49860rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 49860 dstport 22rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 DPID 90 dstport 38393rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 38393 dstport 90rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 DPID 22 dstport 49862rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 49862 dstport 22rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 DPID 22 dstport 49863rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 49863 dstport 22rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 DPID 90 dstport 38396rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 38396 dstport 90rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 DPID 80 dstport 60627rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 60627 dstport 80rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 DPID 80 dstport 60628rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 60628 dstport 80rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 answering ARP for 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:forwarding.l3_learning:1 DPID 17 dstport 49077rcport
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 49077 dstport 17rcport
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning:1 DPID 49238 src_port 17 dst_port
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning:1 DPID 49238 src_port 17 dst_port
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 DPID 49238 src_port 17 dst_port
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
+INFO:forwarding.l3_learning:1 DPID 49238 src_port 17 dst_port
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 installing flow for 10.0.0.1 WHATTHEFuck 0  => 10.0.0.2 out port 2
+INFO:forwarding.l3_learning:1 DPID 17 src_port 49238 dst_port
+INFO:forwarding.l3_learning:1 2 IP 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 installing flow for 10.0.0.2 WHATTHEFuck 0  => 10.0.0.1 out port 1
+INFO:forwarding.l3_learning:1 2 ARP request 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 answering ARP for 10.0.0.1
+INFO:core:Going down...
+INFO:openflow.of_01:[00-00-00-00-00-01 1] disconnected
+INFO:core:Down.
+INFO:core:POX 0.2.0 (carp) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:forwarding.l3_learning: DPID 1 src_port 49290 dst_port 17
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 learned 10.0.0.1
+INFO:forwarding.l3_learning: DPID 1 src_port 49290 dst_port 17
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning: DPID 1 src_port 49290 dst_port 17
+INFO:forwarding.l3_learning:1 1 IP 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 1 ARP request 10.0.0.1 => 10.0.0.2
+INFO:forwarding.l3_learning:1 2 ARP reply 10.0.0.2 => 10.0.0.1
+INFO:forwarding.l3_learning:1 2 learned 10.0.0.2
