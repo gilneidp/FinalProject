@@ -21,9 +21,8 @@ def poxlogs(request):
     return render_to_response('poxlogs.html', context_instance=RequestContext(request))
 def tempflows(request):
     timeisnow=datetime.datetime.now() - timedelta(minutes=1)
-    tempf = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'dst_port').filter(timestamp__gte=timeisnow).annotate(num_ports=Count('dst_port'))
-   # tempf2 = TemporaryFlows.objects.values ('ip_src', 'dst_port').annotate(num_ports=Count('dst_port')) 
-   #tempf = Switchs.objects.filter('name_switch', temporary_flows_id_temporaryflow='fl')
+    tempf = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'dst_port').filter
+    					  (timestamp__gte=timeisnow).annotate(num_ports=Count('dst_port'))
     return render_to_response('tempflows.html',
     RequestContext(request, {'tempf':tempf}))
 def installedflows(request):
