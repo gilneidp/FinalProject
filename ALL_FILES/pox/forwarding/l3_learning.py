@@ -179,32 +179,48 @@ class l3_switch (EventMixin):
       				      timestamp = datetime.datetime.now())
       fl.save()
       timeisnow=datetime.datetime.now() - timedelta(minutes=1)
-      temps = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'dst_port').filter(timestamp__gte=timeisnow,
-      					    dst_port__lte='10024').annotate(num_ports=Count('dst_port'))
-      tempd = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'src_port').filter(timestamp__gte=timeisnow)
-      					    .annotate(num_ports=Count('src_port'))
-      portctr = TemporaryFlows.objects.values('switchport','ip_src','ip_dst').filter(timestamp__gte=timeisnow,
-      					      dst_port__lte='10024').annotate(port_counter=Count('dst_port', distinct=True))
+      temps = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'dst_port')
+      					      .filter(timestamp__gte=timeisnow,
+      					      dst_port__lte='10024').annotate(num_ports=Count('dst_port'))
+      tempd = TemporaryFlows.objects.values ('switchport','ip_src','ip_dst', 'src_port')
+                                              .filter(timestamp__gte=timeisnow)
+      					      .annotate(num_ports=Count('src_port'))
+      portctr = TemporaryFlows.objects.values('switchport','ip_src','ip_dst')
+                                              .filter(timestamp__gte=timeisnow,
+      					      dst_port__lte='10024').annotate(port_counter=Count
+      					      ('dst_port', distinct=True))
       for ct in portctr:
       	ctr = ct['port_counter']
-      if (ctr > 10): # Verifica se ha mais de 10 diferentes portas para o mesmo de Origem e Destino
+      if (ctr > 10): 
       	attack = 1
-	rt = RuleTable(id_switch=switches, switchport = inport, ip_src = packet.next.srcip,
-		 ip_dst = packet.next.dstip, src_port = sport, dst_port = dport, timestamp = datetime.datetime.now(), 
-		 idle_timeout=3000, hard_timeout=20000, action='of.ofp_action_output(port=0)') # porta 0 não existe =DROP
+	rt = RuleTable(id_switch=switches, switchport = 
+		        inport, ip_src = packet.next.srcip,
+		 	ip_dst = packet.next.dstip, src_port = sport,
+		 	dst_port = dport, timestamp = datetime.datetime.now(), 
+		        idle_timeout=3000, hard_timeout=20000,
+		        action='of.ofp_action_output(port=0)') # porta 0 n existe = DROP
+	rt.save()
       for flow in temps:
         counter1 = flow['num_ports']
-      if (counter1 > 120 and counter1 < 240): # verifica se ha varias tentativas na mesma porta
+      if (counter1 > 120 and counter1 < 240): 
      	attack = 1
-        rt = RuleTable(id_switch=switches, switchport = inport, ip_src = packet.next.srcip,
-		 ip_dst = packet.next.dstip, src_port = sport, dst_port = dport, timestamp = datetime.datetime.now(),
-		 idle_timeout=3000, hard_timeout=20000, action='mod_nw_dst:10.0.0.2')
+        rt = RuleTable(id_switch=switches, switchport = inport, 
+        		ip_src = packet.next.srcip,
+		        ip_dst = packet.next.dstip, 
+		        src_port = sport, dst_port = dport,
+		        timestamp = datetime.datetime.now(),
+		        idle_timeout=3000, hard_timeout=20000, 
+		        action='mod_nw_dst:10.0.0.2')
         rt.save()
       if (counter1 > 240):
       	attack = 1
-	rt = RuleTable(id_switch=switches, switchport = inport, ip_src = packet.next.srcip,
-		 ip_dst = packet.next.dstip, src_port = sport, dst_port = dport, timestamp = datetime.datetime.now(), 
-		 idle_timeout=3000, hard_timeout=20000, action='of.ofp_action_output(port=0)') # porta 0 não existe =DROP
+	rt = RuleTable(id_switch=switches, switchport = 
+	                inport, ip_src = packet.next.srcip,
+		 	ip_dst = packet.next.dstip, src_port = sport,
+		 	dst_port = dport, timestamp = datetime.datetime.now(), 
+		        idle_timeout=3000, hard_timeout=20000,
+		        action='of.ofp_action_output(port=0)')
+		 
         rt.save()
       else:
         attack = 0
