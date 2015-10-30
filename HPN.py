@@ -6,7 +6,7 @@ def GetPorts():
 
 def writeLog(client, data=''):
         separator = '='*50
-        fopen = open('./honey.mmh', 'a')
+        fopen = open('./honey.log', 'a')
         fopen.write('Time: %s\nIP: %s\nPort: %d\nData: %s\n%s\n\n'%(time.ctime(), 
                     client[0], client[1], data, separator))
         fopen.close()
